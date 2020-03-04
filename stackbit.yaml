@@ -144,6 +144,7 @@ models:
           - blue
           - black
           - red
+          - pink
         default: green
       - type: object
         name: header

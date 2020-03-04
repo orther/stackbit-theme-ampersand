@@ -14,7 +14,7 @@ params:
         new_window: true
     has_social: true
   layout_style: grid
-  palette: green
+  palette: pink
 sass:
   input_file: sass/main.scss.njk
   output_file: assets/css/main.css
